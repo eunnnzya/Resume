@@ -31,6 +31,8 @@
 |멀티미디어제작기초|포토샵|3|
 |소프트웨어세미나1|깃허브|1|
 
+------------------
+
 github address: [eunnnzya][github]
 
 [github]:http://github.com/eunnnzya
